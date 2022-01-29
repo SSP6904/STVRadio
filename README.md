@@ -32,5 +32,7 @@ https://discord.com/api/oauth2/authorize?client_id=904204499529383947&permission
 ########################################################
 
 Soruce code for debugging on the bot (if it's not online)
-
-
+```
+git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
+```
+##########################################################
