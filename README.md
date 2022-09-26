@@ -1,38 +1,84 @@
-#########################################################
-Official fork of STVRadio for Discord, made in Node.js.
-========================================================
+# **STVRadio Bot for discord**
 
-Original from https://github.com/TannerGabriel/discord-bot
+**This bot is made in Node.js!**
 
-=========================================================
-#########################################################
-Installing Process for getting the bot on your server####
-#########################################################
+This github repo will give you the power and info on how to install it and use it for playing music!
 
-# Clone the repository
-git clone https://github.com/TannerGabriel/discord-bot.git
+**Info status on the bot**
+```
+
+[ ⚙️ ] = ``Slash Only!``
+[ 💻 ] = ``STV2008 Studios#0304``
+[ 📡 ] = ``FM/AM``
+[ 🤖 ] = ``Radio/Music``
+
+Running right now:
+Not yet currently!
+```
+
+To install, use these commands down here:
+
+```
+
+# git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
 
 # Enter into the directory
-cd discord-bot/
+cd stvradio/
 
 # Install the dependencies
 npm install
 
-########################################################
-
-Easy way Process
-
-########################################################
-
-Click this link to invite it to your server
-
-https://discord.com/api/oauth2/authorize?client_id=904204499529383947&permissions=534773037632&scope=bot
-
-########################################################
-########################################################
-
-Soruce code for debugging on the bot (if it's not online)
 ```
-git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
+
+Also, it is importent to keep in mind to install FFMPEG in the manchine or whatever your running this on!
+Read more on how to install FFMPEG for your computer or server in the docs in this repo!
+
+Configuration
+After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
+
+Starting the application
 ```
-##########################################################
+
+node index.js
+```
+
+Before you can use the bots slash command you first need to add them to your Discord server. You can use the ```!deploy``` command to do so.
+
+
+Features & Commands
+Note: The repository now uses the new Discord slash commands
+
+🎶 Play music from YouTube via url
+/play YOUTUBE_URL
+
+🎶 Play music from using song name
+/play SONG_NAME
+
+📃 Pause music
+/pause
+
+🎓 Resume music
+/resume
+
+💿 Skip song
+/skip
+
+🔇 Stop music
+/stop
+
+🔀 Shuffle Queue
+/shuffle
+
+↕ Move song position
+/move TRACK_POSITION TARGET_POSITION
+
+↔️ Swap song positions
+/swap POSITION_1 POSITION_2
+
+⏏️ Remove song
+/remove POSITION
+
+Now Playing (/nowplaying)
+Get information about a user (/userinfo USER)
+Ban a player (/ban USER)
+Delete the latest chat messages (/purge NUM_OF_MESSAGES)
