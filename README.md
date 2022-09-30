@@ -5,47 +5,60 @@
 This github repo will give you the power and info on how to install it and use it for playing music!
 
 **Info status on the bot**
-```
 
-[ ⚙️ ] = ``Slash Only!``
-[ 💻 ] = ``STV2008 Studios#0304``
-[ 📡 ] = ``FM/AM``
-[ 🤖 ] = ``Radio/Music``
+```
+[ ⚙️ ] = Slash Only!
+[ 💻 ] = STV2008 Studios#0304
+[ 📡 ] = FM/AM
+[ 🤖 ] = Radio/Music
 
 Running right now:
+
 Not yet currently!
 ```
 
 To install, use these commands down here:
 
 ```
+git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
+```
 
-# git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
+Enter into the directory
 
-# Enter into the directory
+```
 cd stvradio/
+```
 
-# Install the dependencies
+Install the dependencies
+```
 npm install
-
 ```
 
 Also, it is importent to keep in mind to install FFMPEG in the manchine or whatever your running this on!
+
 Read more on how to install FFMPEG for your computer or server in the docs in this repo!
 
-Configuration
+
+# Configuration
+
+
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
 
-Starting the application
-```
 
+Starting the application
+
+
+```
 node index.js
 ```
 
-Before you can use the bots slash command you first need to add them to your Discord server. You can use the ```!deploy``` command to do so.
+Before you can use the bots slash command you first need to add them to your Discord server. 
+
+You can use the ```!deploy``` command to do so.
 
 
 Features & Commands
+
 Note: The repository now uses the new Discord slash commands
 
 🎶 Play music from YouTube via url
@@ -78,7 +91,11 @@ Note: The repository now uses the new Discord slash commands
 ⏏️ Remove song
 /remove POSITION
 
+
 Now Playing (/nowplaying)
+
 Get information about a user (/userinfo USER)
+
 Ban a player (/ban USER)
+
 Delete the latest chat messages (/purge NUM_OF_MESSAGES)
