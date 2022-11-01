@@ -57,45 +57,45 @@ Before you can use the bots slash command you first need to add them to your Dis
 You can use the ```!deploy``` command to do so.
 
 
-Features & Commands
+# Features & Commands
 
-Note: The repository now uses the new Discord slash commands
+Note: **The repository now uses the new Discord slash commands**
 
-🎶 Play music from YouTube via url
+`🎶` Play music from YouTube via url
 /play YOUTUBE_URL
 
-🎶 Play music from using song name
+`🎶` Play music from using song name
 /play SONG_NAME
 
-📃 Pause music
+`📃` Pause music
 /pause
 
-🎓 Resume music
+`🎓` Resume music
 /resume
 
-💿 Skip song
+`💿` Skip song
 /skip
 
-🔇 Stop music
+`🔇` Stop music
 /stop
 
-🔀 Shuffle Queue
+`🔀` Shuffle Queue
 /shuffle
 
-↕ Move song position
+`↕` Move song position
 /move TRACK_POSITION TARGET_POSITION
 
-↔️ Swap song positions
+`↔️` Swap song positions
 /swap POSITION_1 POSITION_2
 
-⏏️ Remove song
+`⏏️` Remove song
 /remove POSITION
 
 
-Now Playing (/nowplaying)
+Now Playing `/nowplaying`
 
-Get information about a user (/userinfo USER)
+Get information about a user `/userinfo USER`
 
-Ban a player (/ban USER)
+Ban a player `/ban USER`
 
-Delete the latest chat messages (/purge NUM_OF_MESSAGES)
+Delete the latest chat messages `/purge NUM_OF_MESSAGES`
