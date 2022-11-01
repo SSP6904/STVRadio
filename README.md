@@ -17,6 +17,8 @@ Running right now:
 Not yet currently!
 ```
 
+# INSTALLION
+
 To install, use these commands down here:
 
 ```
