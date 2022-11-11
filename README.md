@@ -7,11 +7,10 @@ This github repo will give you the power and info on how to install it and use i
 **Info status on the bot**
 
 ```
-[ ⚙️ ] = Slash Only!
-[ 💻 ] = STV2008 Studios#0304
-[ 📡 ] = FM/AM
-[ 🤖 ] = Radio/Music
-
+[⚙️] = Slash Only!
+[💻] = STV2008 Studios#0304
+[📡] = FM/AM
+[🤖] = Radio/Music
 ```
 
 # INSTALLION
