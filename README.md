@@ -16,7 +16,7 @@ This github repo will give you the power and info on how to install it and use i
 [🤖] = Radio/Music
 ```
 
-# INSTALLION
+# INSTALLION 🤖 ➡️ 💻
 
 To install, use these commands down here:
 
