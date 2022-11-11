@@ -8,8 +8,11 @@ This github repo will give you the power and info on how to install it and use i
 
 ```
 [⚙️] = Slash Only!
+
 [💻] = STV2008 Studios#0304
+
 [📡] = FM/AM
+
 [🤖] = Radio/Music
 ```
 
