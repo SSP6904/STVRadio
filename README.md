@@ -103,6 +103,8 @@ Note: **The repository now uses the new Discord slash commands**
 `/remove POSITION`
 
 
+# Other Commands
+
 Now Playing `/nowplaying`
 
 Get information about a user `/userinfo USER`
