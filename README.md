@@ -1,4 +1,4 @@
-# **STVRadio Bot for discord**
+# 📻 **STVRadio Bot for discord**
 
 **This bot is made in Node.js!**
 
