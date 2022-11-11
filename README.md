@@ -107,7 +107,7 @@ Note: **The repository now uses the new Discord slash commands**
 
 `▶️` Now Playing `/nowplaying`
 
-`▶️` Get information about a user `/userinfo USER`
+`🙋‍♂️` Get information about a user `/userinfo USER`
 
 `⛔` Ban a player `/ban USER`
 
