@@ -12,9 +12,6 @@ This github repo will give you the power and info on how to install it and use i
 [ 📡 ] = FM/AM
 [ 🤖 ] = Radio/Music
 
-Running right now:
-
-Not yet currently!
 ```
 
 # INSTALLION
@@ -64,34 +61,44 @@ You can use the ```!deploy``` command to do so.
 Note: **The repository now uses the new Discord slash commands**
 
 `🎶` Play music from YouTube via url
-/play YOUTUBE_URL
+
+`/play YOUTUBE_URL`
 
 `🎶` Play music from using song name
-/play SONG_NAME
+
+`/play SONG_NAME`
 
 `📃` Pause music
-/pause
+
+`/pause`
 
 `🎓` Resume music
-/resume
+
+`/resume`
 
 `💿` Skip song
-/skip
+
+`/skip`
 
 `🔇` Stop music
-/stop
+
+`/stop`
 
 `🔀` Shuffle Queue
-/shuffle
+
+`/shuffle`
 
 `↕` Move song position
-/move TRACK_POSITION TARGET_POSITION
+
+`/move TRACK_POSITION TARGET_POSITION`
 
 `↔️` Swap song positions
-/swap POSITION_1 POSITION_2
+
+`/swap POSITION_1 POSITION_2`
 
 `⏏️` Remove song
-/remove POSITION
+
+`/remove POSITION`
 
 
 Now Playing `/nowplaying`
