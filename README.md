@@ -105,10 +105,10 @@ Note: **The repository now uses the new Discord slash commands**
 
 # Other Commands
 
-Now Playing `/nowplaying`
+`▶️` Now Playing `/nowplaying`
 
-Get information about a user `/userinfo USER`
+`▶️` Get information about a user `/userinfo USER`
 
-Ban a player `/ban USER`
+`⛔` Ban a player `/ban USER`
 
-Delete the latest chat messages `/purge NUM_OF_MESSAGES`
+`⌨️` Delete the latest chat messages `/purge NUM_OF_MESSAGES`
