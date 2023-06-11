@@ -6,7 +6,6 @@ This github repo will give you the power and info on how to install it and use i
 
 **Info status on the bot**
 
-```
 [⚙️] = Slash Only!
 
 [💻] = STV2008 Studios#0304
@@ -14,9 +13,8 @@ This github repo will give you the power and info on how to install it and use i
 [📡] = FM/AM
 
 [🤖] = Radio/Music
-```
 
-# INSTALLION 🤖 ➡️ 💻
+## INSTALLION 🤖 ➡️ 💻
 
 To install, use these commands down here:
 
@@ -40,7 +38,7 @@ Also, it is importent to keep in mind to install FFMPEG in the manchine or whate
 Read more on how to install FFMPEG for your computer or server in the docs in this repo!
 
 
-# Configuration
+### Configuration
 
 
 After cloning the project and installing all dependencies, you need to add your Discord API token in the config.json file.
@@ -58,7 +56,7 @@ Before you can use the bots slash command you first need to add them to your Dis
 You can use the ```!deploy``` command to do so.
 
 
-# Features & Commands
+### Features & Commands
 
 Note: **The repository now uses the new Discord slash commands**
 
