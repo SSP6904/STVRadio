@@ -1,16 +1,16 @@
-# STVRadio Bot for discord
+# STVRadio
 
 This github repo will give you the power and info on how to install it and use it for playing music!
 
-**Info status on the bot**
+## Information
 
-[⚙️] = Slash Only!
+* ⚙️ Slash Only!
 
-[💻] = STV2008 Studios#0304
+* 💻 SSP6904
 
-[📡] = FM/AM
+* 📡 FM/AM
 
-[🤖] = Radio/Music
+* 🤖 Radio/Music
 
 ## Install
 
@@ -35,7 +35,6 @@ npm install
 Also, it is importent to keep in mind to install FFMPEG in the manchine or whatever your running this on!
 
 Read more on how to install FFMPEG for your computer or server in the docs in this repo!
-
 
 ## Configuration
 
@@ -97,7 +96,7 @@ Note: **The repository now uses the new Discord slash commands**
 `/remove POSITION`
 
 
-### Other Commands
+## Other Commands
 
 `▶️` Now Playing `/nowplaying`
 
