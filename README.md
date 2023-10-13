@@ -55,53 +55,33 @@ You can use the ```!deploy``` command to do so.
 
 Note: **The repository now uses the new Discord slash commands**
 
-`🎶` Play music from YouTube via url
+🎶 - Play music from YouTube via url `/play YOUTUBE_URL`
 
-`/play YOUTUBE_URL`
+🎶 - Play music from using song name `/play SONG_NAME`
 
-`🎶` Play music from using song name
+📃 - Pause music `/pause`
 
-`/play SONG_NAME`
+🎓 - Resume music `/resume`
 
-`📃` Pause music
+💿 - Skip song `/skip`
 
-`/pause`
+🔇 - Stop music `/stop`
 
-`🎓` Resume music
+🔀 - Shuffle Queue `/shuffle`
 
-`/resume`
+↕ - Move song position `/move TRACK_POSITION TARGET_POSITION`
 
-`💿` Skip song
+↔️ - Swap song positions `/swap POSITION_1 POSITION_2`
 
-`/skip`
-
-`🔇` Stop music
-
-`/stop`
-
-`🔀` Shuffle Queue
-
-`/shuffle`
-
-`↕` Move song position
-
-`/move TRACK_POSITION TARGET_POSITION`
-
-`↔️` Swap song positions
-
-`/swap POSITION_1 POSITION_2`
-
-`⏏️` Remove song
-
-`/remove POSITION`
+⏏️ - Remove song `/remove POSITION`
 
 
 ## Other Commands
 
-`▶️` Now Playing `/nowplaying`
+▶️ - Now Playing `/nowplaying`
 
-`🙋‍♂️` Get information about a user `/userinfo USER`
+🙋‍♂️ - Get information about a user `/userinfo USER`
 
-`⛔` Ban a player `/ban USER`
+⛔ - Ban a player `/ban USER`
 
-`⌨️` Delete the latest chat messages `/purge NUM_OF_MESSAGES`
+⌨️ - Delete the latest chat messages `/purge NUM_OF_MESSAGES`
