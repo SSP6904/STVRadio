@@ -17,13 +17,19 @@ This github repo will give you the power and info on how to install it and use i
 To install, use these commands down here:
 
 ```
-git clone https://github.com/ShaunTheVyonder2008/STVRadio.git
+https://git.ttnrtsite.me/SSP6904/STVRadio.git
+```
+
+or
+
+```
+https://github.com/SSP6904/STVRadio.git
 ```
 
 Enter into the directory
 
 ```
-cd stvradio/
+cd STVRadio/
 ```
 
 Install the dependencies
